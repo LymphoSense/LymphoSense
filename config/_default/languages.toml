@@ -1,7 +1,7 @@
 ############################# Italian ############################
 [it]
 languageName = "It"
-title = "Bigspring Hugo"
+title = "LymphoSense"
 contentDir = "content/italian" # content/german
 weight = 1
 ########### footer content ##########
@@ -15,7 +15,7 @@ copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "LymphoSense"
 contentDir = "content/english" # content/english
 weight = 2
 ########### footer content ##########

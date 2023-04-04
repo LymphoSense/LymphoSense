@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://demo.gethugothemes.com/"
-title = "Bigspring Light"
-theme = "bigspring-light"
+title = "LymphoSense"
+theme = "LymphoSense"
 # post pagination
 paginate = "3"
 # post excerpt
