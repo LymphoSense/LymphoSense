@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
+baseURL = "http://demo.gethugothemes.com/"
 title = "Bigspring Light"
 theme = "bigspring-light"
 # post pagination
@@ -13,3 +13,14 @@ googleAnalytics = "" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
+
+DefaultContentLanguage = "it"
+[languages]
+  [languages.it]
+    title = "LymphoSense"
+    languageName = "Italian"
+    weight = 1
+  [languages.en]
+    title = "LymphoSense"
+    languageName = "English"
+    weight = 1
