@@ -1,24 +1,24 @@
 [readmore]
-other = "Weiterlesen"
+other = "Leggi di più"
 
 [translations]
-other="Übersetzungen"
+other="Traduzioni"
 
 [error404]
-other = "Es tut uns wirklich leid aber hier scheint es nichts zu geben."
+other = "Siamo davvero spiacenti ma non sembra esserci nulla qui."
 
 [yourname]
-other = "Ihr Name"
+other = "Nome"
 
 [youremail]
-other = "Ihre Email"
+other = "Email"
 
 [subject]
-other = "Betreff"
+other = "Oggetto"
 
 [yourmessage]
-other = "Ihre Nachricht"
+other = "Messaggio"
 
 [sendnow]
-other = "Abschicken"
+other = "Invia"
 

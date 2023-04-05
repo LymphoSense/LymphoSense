@@ -9,10 +9,10 @@ name = "Blog"
 url = "blog/"
 weight = 2
 
-[[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 3
+# [[main]]
+# name = "Pricing"
+# url = "pricing/"
+# weight = 3
 
 [[main]]
 name = "Contact"
